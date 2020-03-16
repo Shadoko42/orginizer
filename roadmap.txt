@@ -1,0 +1,39 @@
+Roadmap for the organizor
+
+
+* what is done (and what needs  to be changed in what is done *
+
+- read_csv: reader transform a csv to a list, really important modulable program
+- input_list: list the item in the input file
+- category_list: list all the tag categories into a dictionnary, pb is that dictonary's are not ordered, think I also need a list for them to be ordered
+- tagt_list: list all the tags and and put them in a dictionary 
+- add input: add item to input list
+- create_project: create a project, maybe I will need to add some fucntions (for exemple storage of documents)
+- create_tag: create a new tag and category if needed
+
+* what is to be continued * 
+
+- traiter_input: take iput list and decide what to do with items. Very far from finished, one of the more core functions of the program, need to implement others function to be able to finish this one
+-(tbc) review action, need to be redone because i changed the action storaged, core part of the program, will need some other functions to be implemented
+
+* what needs to be done *
+
+- fucntion create action
+- review projects
+- review action
+- storage info (big, need to be designed)
+- delegation
+- sript start program
+- calendar and deadlines (simple or big if google calendar API used)
+- oneday/maybe (and booklist, filmlist, serielist, music list)
+- archive project finished
+
+* not programmation stuff *
+
+- comments
+- put everything in good english
+- work on the interface
+- darcs, can use on different computers
+- reread to code to make him nicer, more optimized
+- add errors when demand input
+
